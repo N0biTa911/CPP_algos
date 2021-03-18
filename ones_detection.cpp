@@ -1,4 +1,4 @@
-//Maze runner
+//Rat in Maize Code
 
 #include <iostream>
 using namespace std;
